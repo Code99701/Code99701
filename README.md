@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-mahajan-61b7b2301/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ArnavMahaj44081)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:toarnavmahajan@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Code99701/)
 ![Profile Views](https://komarev.com/ghpvc/?username=Code99701&color=06b6d4&style=flat-square)
 
 </div>
@@ -71,6 +72,14 @@
 
 ## GitHub Signals
 
+```text
+📊 GitHub Activity
+Total Contributions  : Growing daily
+Projects Shipped     : 4+
+LeetCode             : Daily grinding
+Status               : Actively building 🚀
+```
+
 <div align="center">
 
 <table><tr><td>
@@ -80,6 +89,10 @@
 </td></tr></table>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Code99701&theme=aura&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Code99701&theme=react-dark&hide_border=true&color=06b6d4&line=06b6d4&point=ffffff&area=true&area_color=06b6d420" width="100%" alt="Contribution Graph"/>
 
 </div>
 
