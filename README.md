@@ -24,19 +24,6 @@
 
 ---
 
-## ◈ Now
-
-> *What's on my workbench right now*
-
-```text
-├── 🧠  Grinding DSA — trees, graphs, dynamic programming
-├── 🤖  Deepening ML knowledge — model tuning & pipelines
-├── 🌐  Full-stack with React + FastAPI
-└── 📖  Reading: Clean Code · Grokking Algorithms
-```
-
----
-
 ## Featured Work
 
 | Project | What it does | Stack |
@@ -86,10 +73,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Code99701&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" width="49%" alt="Arnav Mahajan GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code99701&layout=compact&langs_count=8&theme=aura&hide_border=true" width="41%" alt="Top Languages"/>
-
-<br/>
+<table><tr><td>
+<img src="https://github-readme-stats.vercel.app/api?username=Code99701&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Arnav Mahajan GitHub stats"/>
+</td><td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code99701&layout=compact&langs_count=8&theme=aura&hide_border=true" alt="Top Languages"/>
+</td></tr></table>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Code99701&theme=aura&hide_border=true)](https://git.io/streak-stats)
 
@@ -110,12 +98,6 @@
 ---
 
 <div align="center">
-
-*"Build it, break it, learn it — repeat."*
-
-<br/>
-
-[Say hello](https://www.linkedin.com/in/arnav-mahajan-61b7b2301/) · [Made with ReadmeForge](https://lebedevnet.github.io/ReadmeForge/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,100:06b6d4&height=80&section=footer" width="100%"/>
 
