@@ -10,10 +10,6 @@ Location: India · Experience: DSA & ML Enthusiast · Learning: Building skills 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-mahajan-61b7b2301/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ArnavMahaj44081) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:toarnavmahajan@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=Code99701&color=06b6d4&style=flat-square)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=2&section=header" width="100%"/>
-
----
-
 ## Snapshot
 
 - ⌖ **Location** · India
@@ -21,31 +17,15 @@ Location: India · Experience: DSA & ML Enthusiast · Learning: Building skills 
 - ◎ **Education** · Madhav Institute Of Technology and Science
 - ⟳ **Learning** · Building skills in DSA, ML, Web Dev, and Open Source
 
----
-
-## ◈ Now
-
-> *What's on my workbench right now*
-
-```text
-├── 🧠  Grinding DSA — trees, graphs, dynamic programming
-├── 🤖  Deepening ML knowledge — model tuning & pipelines
-├── 🌐  Sharpening full-stack skills with React + FastAPI
-└── 📖  Reading: Clean Code & Grokking Algorithms
-```
-
----
-
 ## Featured Work
 
-| Project | About | Stack |
-|---|---|---|
-| [currency-converter-using-api-data](https://github.com/Code99701/currency-converter-using-api-data) | Real-time currency conversion using live exchange rate APIs | `Python` `API` |
-| [IPL Win Predictor](https://github.com/Code99701/macro-project) | ML model predicting match outcomes using historical IPL data | `Python` `ML` `Flask` |
-| [DataDNA-AI](https://github.com/Code99701/DataDNA-AI) | AI-powered data analysis & visualization platform | `HTML` `CSS` `JS` `AI` |
-| [DSA Questions](https://github.com/Code99701/leetcode-solutions) | Personal LeetCode solutions vault — daily problem solving | `C++` `Python` |
+- [currency-converter-using-api-data](https://github.com/Code99701/currency-converter-using-api-data)
 
----
+- [IPL win Predictor](https://github.com/Code99701/macro-project)
+
+- [DataDNA-AI](https://github.com/Code99701/DataDNA-AI)
+
+- [DSA questions](https://github.com/Code99701/leetcode-solutions)
 
 ## Stack
 
@@ -69,25 +49,8 @@ Location: India · Experience: DSA & ML Enthusiast · Learning: Building skills 
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,jupyter,numpy&theme=dark" alt="AI / ML"/>
 
----
-
-## ◉ By the Numbers
-
-<table>
-  <tr>
-    <td align="center"><b>🧩</b><br/>DSA<br/><sub>Problems Solved</sub></td>
-    <td align="center"><b>🛠</b><br/>4+<br/><sub>Projects Shipped</sub></td>
-    <td align="center"><b>📚</b><br/>6+<br/><sub>Tech Domains</sub></td>
-    <td align="center"><b>🌱</b><br/>Actively<br/><sub>Building in Public</sub></td>
-  </tr>
-</table>
-
----
-
 ## Languages
 - 🇬🇧 **English** · ![Intermediate](https://img.shields.io/badge/-Intermediate-f7c948?style=flat-square)
-
----
 
 ## GitHub Signals
 
@@ -96,8 +59,6 @@ Location: India · Experience: DSA & ML Enthusiast · Learning: Building skills 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code99701&layout=compact&langs_count=8&theme=aura&hide_border=true" alt="Arnav Mahajan top languages"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Code99701&theme=aura&hide_border=true)](https://git.io/streak-stats)
-
----
 
 ## Extras
 
@@ -109,22 +70,4 @@ Location: India · Experience: DSA & ML Enthusiast · Learning: Building skills 
 
 </div>
 
----
-
-## ◎ Philosophy
-
-<div align="center">
-
-*"Build it, break it, learn it — repeat."*
-
-</div>
-
----
-
-<div align="center">
-
 [Say hello](https://www.linkedin.com/in/arnav-mahajan-61b7b2301/) · [Made with ReadmeForge](https://lebedevnet.github.io/ReadmeForge/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=60&section=footer" width="100%"/>
-
-</div>
