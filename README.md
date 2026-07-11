@@ -14,13 +14,30 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-mahajan-61b7b2301/)
-[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ArnavMahaj44081)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/VXBBbYkQpraqs/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toarnavmahajan@gmail.com)
+![Degree](https://img.shields.io/badge/🎓%20B.Tech-Mathematics%20%26%20Computing-1e1b4b?style=for-the-badge)
+![College](https://img.shields.io/badge/🏫-MITS%20Gwalior-0e7490?style=for-the-badge)
+![Semester](https://img.shields.io/badge/📚-Semester%204%20%C2%B7%20Batch%2012-4338ca?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍-India-334155?style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+[![Projects](https://img.shields.io/badge/🚀_Projects-06b6d4?style=for-the-badge&logoColor=white)](#-ls-projects)
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-mahajan-61b7b2301/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toarnavmahajan@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/VXBBbYkQpraqs/)
+[![X](https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ArnavMahaj44081)
+
+</div>
+
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Code99701&color=06b6d4&style=for-the-badge&label=VISITORS)
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -28,31 +45,15 @@
 
 </div>
 
----
+<br/>
 
-## `> whoami`
+## About
 
-```python
-class Arnav:
-    name         = "Arnav Mahajan"
-    location     = "India 🇮🇳"
-    college      = "MITS Gwalior — B.Tech Mathematics & Computing"
-    semester     = 4
-    batch        = 12
+I'm a Mathematics & Computing undergraduate at MITS Gwalior (Semester 4), focused on data structures, applied mathematics, and full-stack engineering. I'd rather ship something that runs than talk about something that might.
 
-    focus        = ["Data Structures & Algorithms", "Machine Learning",
-                     "Full-Stack Engineering", "Applied Mathematics"]
-    currently    = ["Grinding LeetCode daily",
-                     "Shipping DataDNA AI's blockchain layer",
-                     "Tuning the IPL win-predictor model"]
-    ask_me_about = ["Python", "C++", "FastAPI", "Random Forests",
-                     "Cryptography", "Applied Maths"]
+My project work spans the full stack — from training a Random Forest classifier that predicts live IPL match outcomes, to building an async FastAPI + MongoDB platform that fingerprints documents and verifies ownership with a blockchain-backed audit trail. I care about the engineering underneath the demo: clean data pipelines, sensible APIs, and systems that hold up under real use, not just a happy path.
 
-    fun_fact     = "I run a jewellery shop AND debug code — precision is a lifestyle 💎"
-
-    def philosophy(self):
-        return "Ship it, learn from it, repeat."
-```
+I pair that with daily DSA practice on LeetCode and ML/DL fundamentals built from scratch — strong problem-solving instincts make the rest of the stack easier to reason about.
 
 ---
 
