@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,35:1e1b4b,70:0e7490,100:06b6d4&height=170&section=header&text=Arnav%20Mahajan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Math%20%26%20Computing%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Builder&descSize=17&descAlignY=58&descColor=94d8e8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:030014,35:1e1b4b,70:0e7490,100:06b6d4&amp;height=170&amp;section=header&amp;text=Arnav%20Mahajan&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Math%20%26%20Computing%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Builder&amp;descSize=17&amp;descAlignY=58&amp;descColor=94d8e8" width="100%"/>
 
 </div>
 
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,react,tailwind,nodejs,flask,fastapi,mysql,mongodb,sqlite,git,github,vscode,tensorflow,pytorch&theme=dark&perline=10" alt="Skill Icons"/>
+<img src="https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,react,tailwind,nodejs,flask,fastapi,mysql,mongodb,sqlite,git,github,vscode,tensorflow,pytorch&amp;theme=dark&amp;perline=10" alt="Skill Icons"/>
 
 </div>
 
@@ -319,10 +319,10 @@ No formal certifications yet — currently building proof-of-work through shippe
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Code99701&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Arnav's+GitHub+Stats" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Code99701&amp;show_icons=true&amp;theme=aura&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;rank_icon=github&amp;custom_title=Arnav's+GitHub+Stats" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code99701&layout=compact&langs_count=8&theme=aura&hide_border=true" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code99701&amp;layout=compact&amp;langs_count=8&amp;theme=aura&amp;hide_border=true" alt="Top Languages"/>
     </td>
   </tr>
 </table>
@@ -331,11 +331,11 @@ No formal certifications yet — currently building proof-of-work through shippe
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Code99701&theme=react-dark&hide_border=true&color=06b6d4&line=06b6d4&point=ffffff&area=true&area_color=06b6d420" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Code99701&amp;theme=react-dark&amp;hide_border=true&amp;color=06b6d4&amp;line=06b6d4&amp;point=ffffff&amp;area=true&amp;area_color=06b6d420" width="100%" alt="Contribution Graph"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Code99701&theme=tokyonight&column=4&no-frame=true&margin-w=10&margin-h=10" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Code99701&amp;theme=tokyonight&amp;column=4&amp;no-frame=true&amp;margin-w=10&amp;margin-h=10" alt="Trophies"/>
 
 <br/>
 
@@ -388,6 +388,6 @@ current_focus:
 
 *"Ship it, learn from it, repeat."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e1b4b,100:030014&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06b6d4,50:1e1b4b,100:030014&amp;height=90&amp;section=footer" width="100%"/>
 
 </div>
