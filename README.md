@@ -276,7 +276,7 @@ No formal certifications yet — here's what's actively in progress instead of a
 
 <div align="center">
 
-<a href="https://leetcode.com/u/VXBBbYkQpraqs/">
+<a href="https://leetcode.com/u/VXBBbYkQpr/">
 <img src="https://leetcard.jacoblin.cool/VXBBbYkQpraqs?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
 </a>
 
