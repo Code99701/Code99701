@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="280" viewBox="0 0 1600 280">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="35%" stop-color="#10233b"/>
+      <stop offset="70%" stop-color="#153c4f"/>
+      <stop offset="100%" stop-color="#1fb6d9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="280" fill="url(#bg)"/>
+
+  <line x1="510" y1="82" x2="1090" y2="82" stroke="#4fd9f8" stroke-opacity="0.15" stroke-width="1"/>
+  <line x1="510" y1="198" x2="1090" y2="198" stroke="#4fd9f8" stroke-opacity="0.15" stroke-width="1"/>
+
+  <text x="800" y="122"
+        text-anchor="middle"
+        font-family="Inter, SF Pro Display, Segoe UI, Arial, sans-serif"
+        font-size="56"
+        font-weight="700"
+        fill="#FFFFFF">
+    Arnav Mahajan
+  </text>
+
+  <text x="800" y="160"
+        text-anchor="middle"
+        font-family="Inter, SF Pro Display, Segoe UI, Arial, sans-serif"
+        font-size="24"
+        font-weight="600"
+        fill="#DDEAF4">
+    Mathematics &amp; Computing
+  </text>
+
+  <text x="800" y="192"
+        text-anchor="middle"
+        font-family="Inter, SF Pro Display, Segoe UI, Arial, sans-serif"
+        font-size="18"
+        font-weight="500"
+        fill="#63DCF6">
+    AI • Machine Learning • DSA • Development
+  </text>
+</svg>
