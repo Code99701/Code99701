@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=06b6d4&center=true&vCenter=true&width=640&lines=B.Tech+Mathematics+%26+Computing+%40+MITS+Gwalior;Turning+math+into+software+that+ships;DSA+daily+%C2%B7+ML+pipelines+%C2%B7+full-stack+builds;Semester+4+of+8+%E2%80%94+always+building+something)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=06b6d4&center=true&vCenter=true&width=640&lines=B.Tech+Mathematics+%26+Computing+%40+MITS+Gwalior;Turning+math+into+software+that+ships;DSA+daily+%C2%B7+ML+pipelines+%C2%B7+full-stack+builds;Semester+5+of+8+%E2%80%94+always+building+something)](https://git.io/typing-svg)
 
 </div>
 
