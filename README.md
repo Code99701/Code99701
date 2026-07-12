@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Code99701/Code99701/main/assets/banner.svg" alt="Arnav Mahajan Banner" width="100%">
+  <img
+    src="https://raw.githubusercontent.com/Code99701/Code99701/main/assets/banner_v2.svg"
+    alt="Arnav Mahajan Banner"
+    width="100%" />
 </div>
 
 <div align="center">
