@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-mahajan-61b7b2301/)
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ArnavMahaj44081)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/VXBBbYkQpraqs/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/VXBBbYkQpr/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toarnavmahajan@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Code99701&color=06b6d4&style=for-the-badge&label=VISITORS)
 
@@ -32,7 +32,7 @@ class Arnav:
         self.name         = "Arnav Mahajan"
         self.location     = "India"
         self.education    = "B.Tech Mathematics & Computing @ MITS Gwalior"
-        self.progress     = "Semester 5 / 8  
+        self.progress     = "Semester 5 / 8"
         self.interests    = ["DSA", "Machine Learning", "Full-Stack Dev", "Applied Mathematics"]
         self.currently    = ["Solving DSA daily in C++", "ML learner", "Building projects"]
         self.ask_me_about = ["Python", "C++", "Data Structures", "Machine Learning", "Applied Maths"]
@@ -277,7 +277,7 @@ No formal certifications yet — here's what's actively in progress instead of a
 <div align="center">
 
 <a href="https://leetcode.com/u/VXBBbYkQpr/">
-<img src="https://leetcard.jacoblin.cool/VXBBbYkQpraqs?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/VXBBbYkQpr?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
 </a>
 
 <!-- Third-party card service — if it stops rendering, swap for another LeetCode stats card or drop this block. -->
@@ -295,10 +295,10 @@ GitHub is the primary profile below. HackerRank / GeeksforGeeks / CodeChef badge
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Code99701&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Arnav's+GitHub+Stats" alt="GitHub Stats"/>
+      <img src="https://github-stats-extended.vercel.app/api?username=Code99701&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Arnav's+GitHub+Stats" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code99701&layout=compact&langs_count=8&theme=aura&hide_border=true" alt="Top Languages"/>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Code99701&layout=compact&langs_count=8&theme=aura&hide_border=true" alt="Top Languages"/>
     </td>
   </tr>
 </table>
