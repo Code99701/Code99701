@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:030014,35:1e1b4b,70:0e7490,100:06b6d4&amp;height=170&amp;section=header&amp;text=Arnav%20Mahajan&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Math%20%26%20Computing%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Builder&amp;descSize=17&amp;descAlignY=58&amp;descColor=94d8e8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020d18,35:1e1b4b,70:0a2a3a,100:06b6d4&height=170&section=header&text=Arnav%20Mahajan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Math%20%26%20Computing%20%C2%B7%20Builder%20%C2%B7%20Problem%20Solver&descSize=16&descAlignY=63&descColor=94d8e8" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=06b6d4&center=true&vCenter=true&width=640&lines=B.Tech+Mathematics+%26+Computing+%40+MITS+Gwalior;Building+things+that+actually+work;DSA+grinder+%7C+ML+explorer+%7C+Full-stack+builder;Semester+4+%E2%86%92+shipping+real+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=06b6d4&center=true&vCenter=true&width=640&lines=B.Tech+Mathematics+%26+Computing+%40+MITS+Gwalior;Turning+math+into+software+that+ships;DSA+daily+%C2%B7+ML+pipelines+%C2%B7+full-stack+builds;Semester+4+of+8+%E2%80%94+always+building+something)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,200 +14,50 @@
 
 <div align="center">
 
-![Degree](https://img.shields.io/badge/🎓%20B.Tech-Mathematics%20%26%20Computing-1e1b4b?style=for-the-badge)
-![College](https://img.shields.io/badge/🏫-MITS%20Gwalior-0e7490?style=for-the-badge)
-![Semester](https://img.shields.io/badge/📚-Semester%204%20%C2%B7%20Batch%2012-4338ca?style=for-the-badge)
-![Location](https://img.shields.io/badge/📍-India-334155?style=for-the-badge)
-
-</div>
-
-<div align="center">
-
-[![Projects](https://img.shields.io/badge/🚀_Projects-06b6d4?style=for-the-badge&logoColor=white)](#-ls-projects)
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-mahajan-61b7b2301/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toarnavmahajan@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/VXBBbYkQpraqs/)
-[![X](https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ArnavMahaj44081)
-
-</div>
-
-<div align="center">
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-mahajan-61b7b2301/)
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ArnavMahaj44081)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/VXBBbYkQpraqs/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toarnavmahajan@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Code99701&color=06b6d4&style=for-the-badge&label=VISITORS)
 
 </div>
 
-<br/>
+---
 
-<div align="center">
+## `> whoami`
 
-<img src="https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,react,tailwind,nodejs,flask,fastapi,mysql,mongodb,sqlite,git,github,vscode,tensorflow,pytorch&amp;theme=dark&amp;perline=10" alt="Skill Icons"/>
-
-</div>
-
-<br/>
-
-## About
-
-I'm a Mathematics & Computing undergraduate at MITS Gwalior (Semester 4), focused on data structures, applied mathematics, and full-stack engineering. I'd rather ship something that runs than talk about something that might.
-
-My project work spans the full stack — from training a Random Forest classifier that predicts live IPL match outcomes, to building an async FastAPI + MongoDB platform that fingerprints documents and verifies ownership with a blockchain-backed audit trail. I care about the engineering underneath the demo: clean data pipelines, sensible APIs, and systems that hold up under real use, not just a happy path.
-
-I pair that with daily DSA practice on LeetCode and ML/DL fundamentals built from scratch — strong problem-solving instincts make the rest of the stack easier to reason about.
+```python
+class Arnav:
+    def __init__(self):
+        self.name         = "Arnav Mahajan"
+        self.location     = "India"
+        self.education    = "B.Tech Mathematics & Computing @ MITS Gwalior"
+        self.progress     = "Semester 5 / 8  
+        self.interests    = ["DSA", "Machine Learning", "Full-Stack Dev", "Applied Mathematics"]
+        self.currently    = ["Solving DSA daily in C++", "ML learner", "Building projects"]
+        self.ask_me_about = ["Python", "C++", "Data Structures", "Machine Learning", "Applied Maths"]
+```
 
 ---
 
-## `> ls ./projects`
+## `> cat ./about.md`
 
-| # | Project | What it does | Stack | Status |
-|---|---------|---------------|-------|--------|
-| 01 | [**IPL Win Predictor**](https://github.com/Code99701/macro-project) | Predicts live match win-probability from a Random Forest model trained on 2008–2020 IPL data | `Python` `Flask` `scikit-learn` | 🟢 Live |
-| 02 | [**DataDNA AI**](https://github.com/Code99701/DataDNA-AI) | Document ownership tracking & verification platform with blockchain-backed proofs | `FastAPI` `MongoDB` `Sentence-Transformers` | 🔄 Active dev |
-| 03 | [**Currency Converter**](https://github.com/Code99701/currency-converter-using-api-data) | Real-time currency conversion via a pluggable exchange-rate API adapter | `JavaScript` `HTML` `CSS` | ✅ Done |
+Mathematics. Code. Curiosity.
 
-<sub>Dropped the old DSA Vault entry — that repo no longer exists on GitHub.</sub>
+I'm a **Mathematics & Computing** undergraduate at **MITS Gwalior** focused on **Software Engineering, AI, and Machine Learning**. I enjoy turning ideas into products, solving challenging DSA problems, and continuously learning new technologies.
 
----
+Currently building projects, sharpening problem-solving skills, and working toward becoming an engineer who values simplicity, performance, and meaningful impact.
 
-## `> cat ./featured-projects.md`
-
-<details>
-<summary><b>🏏 IPL Win Predictor</b> — real-time match win-probability engine</summary>
-<br/>
-
-**Overview**
-A Flask web app that predicts a live IPL match's win probability from the current match state — target, current score, overs bowled, wickets lost, teams, and venue.
-
-**Problem Statement**
-Static pre-match predictions ignore how win probability shifts ball-by-ball as a chase unfolds. This models that in-game uncertainty from historical outcomes instead of commentary gut-feel.
-
-**Key Features**
-- Live win/loss probability from partial match state
-- Ground-aware predictions — venue-specific boundary size is engineered in as a feature
-- Every prediction is logged to a database for later analysis
-- Legacy Streamlit variant included alongside the primary Flask app
-
-**Architecture**
-```
-Match state (form) → Flask route → sklearn Pipeline
-  (OneHotEncoder + RandomForestClassifier) → win probability → SQLite log
-```
-
-**Tech Stack**
-`Python` · `Flask` · `scikit-learn` · `Pandas` · `NumPy` · `SQLAlchemy` · `SQLite`
-
-**Engineering Challenges**
-- Normalizing inconsistent venue names across seasons (e.g. Bangalore vs. Bengaluru) before merging in ground-size data
-- Balancing the classifier against a skewed win/loss distribution in the historical dataset
-- Keeping the trained pipeline out of version control — `pipe.pkl` is pulled from Google Drive at runtime via `gdown` instead of being committed
-
-**Performance**
-A 500-tree Random Forest with class-balanced weighting, evaluated with an 80/20 train-test split and reported via `classification_report`.
-
-**Scalability**
-The inference path is stateless per request; the SQLite log is the only shared state, which makes it straightforward to move to a managed database as traffic grows.
-
-**Future Improvements**
-- Move match-history storage into a normalized relational schema
-- Live ball-by-ball data feed instead of manual match-state entry
-- Model versioning with accuracy tracking across retrains
-
-**Repository:** [Code99701/macro-project](https://github.com/Code99701/macro-project)
-
-</details>
-
-<details>
-<summary><b>🧬 DataDNA AI</b> — document ownership tracking & verification platform</summary>
-<br/>
-
-**Overview**
-An async FastAPI platform that registers documents (PDF / DOCX / TXT), fingerprints their content, and later verifies new uploads against everything already registered — with blockchain-backed proof of ownership.
-
-**Problem Statement**
-Once a file is shared, proving who created it first is hard. Visible watermarks are easy to strip and metadata is easy to fake, so this focuses on the document's actual content instead of a fragile external marker.
-
-**Key Features**
-- Tiered verification pipeline: exact file hash → page hash → embedding similarity → chunk-level analysis
-- Multi-owner attribution with contribution percentages when a document overlaps several sources
-- JWT authentication with bcrypt password hashing and Google OAuth login
-- Rate-limited API (`slowapi`) plus an admin dashboard for oversight
-- Blockchain-backed ownership recording via dedicated blockchain routes
-
-**Architecture**
-```
-Upload → hash + text extraction → per-page sentence embedding
-   → similarity check against MongoDB → register (+ blockchain record)
-     or return a similarity report if significant overlap is found
-```
-
-**Tech Stack**
-`FastAPI` · `MongoDB (Motor, async)` · `Sentence-Transformers` · `scikit-learn` · `PyJWT` · `bcrypt` · `slowapi`
-
-**Engineering Challenges**
-- Tuning a similarity threshold that catches real overlap without flagging unrelated documents
-- Keeping page-level embedding comparisons fast as the registered-document collection grows
-- Coordinating hash-based exact matches with fuzzier embedding-based matches in a single pipeline
-
-**Performance**
-The tiered design short-circuits on exact hash matches, so most repeat-verification requests never reach the more expensive embedding-comparison step.
-
-**Scalability**
-Motor's async MongoDB driver keeps I/O non-blocking under FastAPI; the embedding-similarity step is the natural place to introduce a vector index as the document corpus grows.
-
-**Future Improvements**
-- Autoencoder-based watermarking layered on top of the current pipeline
-- Video and image ownership support
-- Public-facing verification API for third parties
-
-**Repository:** [Code99701/DataDNA-AI](https://github.com/Code99701/DataDNA-AI)
-
-</details>
-
-<details>
-<summary><b>💱 Currency Converter</b> — real-time FX conversion micro-project</summary>
-<br/>
-
-**Overview**
-A lightweight, framework-free currency converter that fetches live exchange rates and converts between currencies in real time.
-
-**Problem Statement**
-A focused, dependency-light tool for practicing third-party API integration, error handling, and a clean adapter pattern without the overhead of a full framework.
-
-**Key Features**
-- Real-time conversion via a live exchange-rate API
-- Responsive UI with currency search
-- Graceful handling of network/API failures and invalid input
-- Adapter layer so the underlying rate provider can be swapped without touching the UI
-
-**Architecture**
-```
-UI (vanilla JS) → adapter layer → exchange-rate API → parsed response → rendered conversion
-```
-
-**Tech Stack**
-`JavaScript` · `HTML5` · `CSS3`
-
-**Engineering Challenges**
-- Handling rate-limited or failed API responses without breaking the UI
-- Keeping the provider swap genuinely painless via the adapter layer
-
-**Performance**
-Minimal footprint by design — no build step, no framework overhead.
-
-**Scalability**
-The adapter layer is the intentional extension point: a caching layer or a second rate provider can be added without touching UI code.
-
-**Future Improvements**
-- Response caching to cut down on repeated API calls
-- Historical rate charting
-
-**Repository:** [Code99701/currency-converter-using-api-data](https://github.com/Code99701/currency-converter-using-api-data)
-
-</details>
 
 ---
 
 ## `> cat ./stack.txt`
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,react,nodejs,flask,mysql,git,github,pytorch,tensorflow)
+
+</div>
 
 **Languages**
 
@@ -236,8 +86,7 @@ The adapter layer is the intentional extension point: a caching layer or a secon
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **AI / ML**
 
@@ -246,69 +95,196 @@ The adapter layer is the intentional extension point: a caching layer or a secon
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Cloud**
+**Cloud** <sub>(exploring)</sub>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-**Tools**
+**Tools & Workflow**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## `> cat ./ai-ml-expertise.md`
+## `> cat ./ai_ml_expertise.md`
 
 | Domain | Proficiency | Tools | Experience |
 |---|---|---|---|
-| Machine Learning | Applied | scikit-learn, RandomForest | Trained a 500-tree Random Forest classifier for real-time win-probability prediction, with custom feature engineering (venue boundary size, team/city encoding) |
-| NLP & Embeddings | Learning | Sentence-Transformers | Semantic similarity search over document embeddings as part of a tiered ownership-verification pipeline |
-| Data Analysis | Applied | Pandas, NumPy | Cleaned and engineered features from multi-season historical match and ball-by-ball datasets |
-| API Engineering | Applied | FastAPI, Flask | Shipped async, JWT-secured, rate-limited REST APIs and a lightweight ML inference service |
-| Model Deployment | Applied | Flask, Pickle, gdown | Serves a trained model in a live Flask app, pulling versioned weights at runtime |
-| Data Visualization | Familiar | Pandas, Jupyter | Exploratory analysis and notebooks for model experimentation |
+| Classical ML (classification / regression) | Intermediate | scikit-learn, Pandas, NumPy | Random Forest classifier project; academic coursework |
+| Data Analysis & Visualization | Intermediate | Pandas, Jupyter, SQL | IPL match-performance analytics (relational DB + SQL) |
+| Applied Math for ML (linear algebra, transforms, probability) | Strong | — | Core B.Tech Mathematics & Computing curriculum |
+| Deep Learning / Computer Vision | Early-stage, exploring | PyTorch, TensorFlow, OpenCV | Watermarking pipeline in DataDNA AI — classical CV shipped, autoencoder-based model planned |
 
 ---
 
-## `> git log --engineering-experience`
+## `> ls ./projects`
 
-**Academic Foundation**
-- B.Tech in Mathematics & Computing, MITS Gwalior — Semester 4, Batch 12
-- Coursework: Number Theory & Cryptography, Applied Mathematics (Transforms & Calculus), DBMS (Normalization, Transactions, SQL)
+| # | Project | What it does | Stack | Status |
+|---|---------|---------------|-------|--------|
+| 01 | [**IPL Analytics**](https://github.com/Code99701/macro-project) | Relational DB design + analytical SQL over 13 seasons of IPL data | `Python` `Pandas` `MySQL` | ✅ Complete |
+| 02 | [**DataDNA AI**](https://github.com/Code99701/DataDNA-AI) | Invisible file-fingerprinting system for ownership verification | `Python` `FastAPI` `OpenCV` | 🔄 Active MVP |
+| 03 | [**Currency Converter**](https://github.com/Code99701/currency-converter-using-api-data) | Real-time exchange-rate conversion via a live API | `JavaScript` `API` | ✅ Complete |
 
-**Personal Products**
-- **IPL Win Predictor** — Flask + Random Forest classifier, model served via `gdown`, predictions logged through SQLAlchemy
-- **DataDNA AI** — FastAPI + MongoDB ownership/verification platform with a blockchain-backed proof-of-ownership layer
-- **Currency Converter** — vanilla JS real-time FX tool with a pluggable provider adapter
+---
 
-**Practice & Research**
-- Implementing core ML/DL algorithms from scratch for hands-on fundamentals
-- Daily DSA problem-solving on LeetCode
+## `> cat ./projects/*/README.md`
+
+<details>
+<summary><b>🏏 IPL Analytics — Relational Database Design & Performance Insights</b></summary>
+<br/>
+
+**Overview**
+A semester "macro project" turning 13 seasons (2008–2020) of raw IPL cricket data into a normalized relational schema and an analytical SQL layer for team, player, and match-performance insights.
+
+**Problem Statement**
+Multi-season sports data is inherently relational, but usually ships as flat, denormalized CSVs. Querying it for real questions — team form over time, player performance trends, match outcome patterns — means fighting duplicated data and inconsistent joins at the source.
+
+**Key Features**
+- Cleaned and preprocessed 13 seasons of match-level data with Pandas
+- Designed a normalized relational schema with defined primary/foreign key relationships
+- Wrote analytical SQL queries covering team performance, player form, and match outcomes across seasons
+
+**Architecture**
+`Raw CSV data → Pandas cleaning/preprocessing → normalized MySQL schema → analytical SQL query layer`
+
+**Tech Stack**
+`Python` · `Pandas` · `MySQL` · `SQL`
+
+**Engineering Challenges**
+Normalizing years of inconsistently-formatted match data without losing query clarity — and deciding where strict 3NF helps versus where it just adds unnecessary joins.
+
+**Performance & Scalability**
+Primary/foreign key relationships keep multi-table queries efficient rather than requiring full scans across flat files, and the schema is season-agnostic — new IPL seasons load in without restructuring existing tables.
+
+**Future Improvements**
+Extend the analytical layer into a live win-probability model — the original "predictor" ambition for this project — using the existing cleaned dataset as training data.
+
+**Repository:** [github.com/Code99701/macro-project](https://github.com/Code99701/macro-project)
+
+</details>
+
+<details>
+<summary><b>🧬 DataDNA AI — File Ownership Fingerprinting System</b></summary>
+<br/>
+
+**Overview**
+An invisible file-fingerprinting system that embeds a unique, tamper-resistant identifier into digital files so ownership can be verified later — even after the file has been modified, compressed, or leaked.
+
+**Problem Statement**
+Visible watermarks and metadata tags are trivial to strip. The moment a file is copied, cropped, or re-compressed, most ownership signals disappear with it, leaving no reliable way to prove who a leaked file originally belonged to.
+
+**Key Features — current MVP**
+- Upload → fingerprint generation → invisible embedding pipeline
+- LSB (least-significant-bit) watermark embedding and extraction
+- Fingerprint-matching engine that returns the original owner with a confidence score
+
+**Planned**
+- AI-driven fingerprinting via an autoencoder-based model, built to survive cropping, compression, and noise
+- Video and PDF support beyond images
+- A dashboard for organizations to monitor leaks in real time
+
+**Architecture**
+`Upload API → Fingerprint Generator → Watermark Engine → Storage`, mirrored by a detection path: `Leaked File → Detection API → Extraction Engine → Matching Engine → Owner + Confidence Score`
+
+**Tech Stack**
+`Python` (FastAPI/Flask) · `OpenCV` · `NumPy` · `PyTorch` / `TensorFlow` *(planned, for AI-based watermarking)* · `React` *(planned dashboard)* · `MongoDB` / `PostgreSQL` · `Google Cloud Storage`
+
+**Engineering Challenges**
+Making a fingerprint survive real-world transformations is the entire point — and the hard part. The MVP proves out the embed → extract → match loop; robustness against cropping and compression is the next milestone.
+
+**Scalability**
+Structured as separable services — fingerprinting, storage, matching — from the start, so the detection engine can scale independently of the embedding pipeline.
+
+**Future Improvements**
+Autoencoder-based robust watermarking, blockchain-based ownership logs, SaaS-style dashboard for organizations.
+
+**Repository:** [github.com/Code99701/DataDNA-AI](https://github.com/Code99701/DataDNA-AI)
+
+</details>
+
+<details>
+<summary><b>💱 Real-Time Currency Converter</b></summary>
+<br/>
+
+**Overview**
+A focused micro-project for real-time currency conversion using a live exchange-rate API instead of hardcoded rates.
+
+**Key Features**
+- Live exchange-rate lookups via a public API
+- Simple, fast client-side conversion interface
+
+**Tech Stack**
+`JavaScript` · `HTML` · `CSS` · Exchange Rate API
+
+**Scope**
+Deliberately small — a micro-project meant to be a clean, focused unit rather than an over-engineered one.
+
+**Repository:** [github.com/Code99701/currency-converter-using-api-data](https://github.com/Code99701/currency-converter-using-api-data)
+
+</details>
+
+---
+
+## `> cat ./experience.log`
+
+**Academic & Independent Projects**
+- IPL Analytics, DataDNA AI, and the Currency Converter above
+- Database Management System coursework — a Result Management System project (schema design, normalization)
+- Applied Mathematics self-study tooling — an interactive practice quiz covering Fourier Series, Laplace Transforms, Z-Transforms, and Vector Calculus
+
+**Independent Ventures**
+- Runs a jewellery shop alongside a full-time engineering course load — hands-on business operations running in parallel with a math-heavy STEM degree
+
+**Personal Systems & Tooling** <sub>(private)</sub>
+- Built and actively maintains a local, MCP (Model Context Protocol)–based AI assistant ecosystem spanning browser automation and content analysis, a persistent local memory system with semantic search over ingested documents, voice input/output, and full local dev-environment control — file operations, git, project scaffolding, package management. Not public yet; currently a personal productivity system.
 
 **Open Source**
-- Actively looking to make first contributions — reach out if you know a good first issue
+- Not yet — actively on the roadmap (see Current Focus below)
 
 ---
 
-## `> ls ./certifications`
-
-**Currently Pursuing**
-
-No formal certifications yet — currently building proof-of-work through shipped projects instead of badges. Actively exploring Machine Learning specializations and AWS cloud fundamentals.
-
----
-
-## `> ls ./coding-profiles`
+## `> ls ./achievements`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Code99701)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/VXBBbYkQpraqs/)
+<img src="https://github-profile-trophy.vercel.app/?username=Code99701&theme=tokyonight&column=4&no-frame=true&margin-w=10&margin-h=10" alt="Trophies"/>
 
 </div>
+
+- 🎓 B.Tech Mathematics & Computing, MITS Gwalior — Batch 12, currently in Semester 4
+- 🧮 Coursework completed: Number Theory & Cryptography, Applied Mathematics (Transforms & Vector Calculus), DBMS
+- 💻 Building in public on GitHub since 2024
+
+---
+
+## `> cat ./certifications.md`
+
+No formal certifications yet — here's what's actively in progress instead of a wall of badges:
+
+- 🟡 **JavaScript — Algorithms & Data Structures** (freeCodeCamp)
+- 🟡 **Machine Learning** — coursework paired with applied projects
+- 🟡 **Data Structures & Algorithms** — daily practice in C++ on LeetCode
+
+---
+
+## `> cat ./profiles.md`
+
+<div align="center">
+
+<a href="https://leetcode.com/u/VXBBbYkQpraqs/">
+<img src="https://leetcard.jacoblin.cool/VXBBbYkQpraqs?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
+</a>
+
+<!-- Third-party card service — if it stops rendering, swap for another LeetCode stats card or drop this block. -->
+
+</div>
+
+GitHub is the primary profile below. HackerRank / GeeksforGeeks / CodeChef badges slot in here the moment those profiles exist.
 
 ---
 
@@ -319,10 +295,10 @@ No formal certifications yet — currently building proof-of-work through shippe
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Code99701&amp;show_icons=true&amp;theme=aura&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;rank_icon=github&amp;custom_title=Arnav's+GitHub+Stats" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Code99701&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Arnav's+GitHub+Stats" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code99701&amp;layout=compact&amp;langs_count=8&amp;theme=aura&amp;hide_border=true" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code99701&layout=compact&langs_count=8&theme=aura&hide_border=true" alt="Top Languages"/>
     </td>
   </tr>
 </table>
@@ -331,54 +307,66 @@ No formal certifications yet — currently building proof-of-work through shippe
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Code99701&amp;theme=react-dark&amp;hide_border=true&amp;color=06b6d4&amp;line=06b6d4&amp;point=ffffff&amp;area=true&amp;area_color=06b6d420" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Code99701&theme=react-dark&hide_border=true&color=06b6d4&line=06b6d4&point=ffffff&area=true&area_color=06b6d420" width="100%" alt="Contribution Graph"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Code99701&amp;theme=tokyonight&amp;column=4&amp;no-frame=true&amp;margin-w=10&amp;margin-h=10" alt="Trophies"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Code99701/Code99701/output/github-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Code99701/Code99701/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Code99701/Code99701/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Code99701/Code99701/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+<!-- Needs a one-time GitHub Action added to this repo before it renders — see snake-workflow.yml -->
 
 </div>
-
-<sub>The contribution snake needs a one-time setup — see <code>snake-workflow.yml</code> below.</sub>
 
 ---
 
 ## `> cat ./currently-learning.md`
 
+```text
+┌─────────────────────────────────────────────────────┐
+│  SEMESTER 4 BATTLELOG                                │
+│                                                       │
+│  ✅  Number Theory & Cryptography                    │
+│  ✅  Applied Mathematics (Transforms & Calculus)      │
+│  ✅  DBMS (Normalization, Transactions, SQL)          │
+│  🔄  Software Engineering                             │
+│  🔄  Data Science                                     │
+│  🔄  Data Structures & Algorithms (Daily grind)       │
+│  🔄  Machine Learning (Theory → Projects)             │
+│  📌  Open Source contributions (Coming soon)          │
+└─────────────────────────────────────────────────────┘
+```
+
+## `> cat ./now.yaml`
+
 ```yaml
-current_focus:
+currently:
   learning:
-    - Data Structures & Algorithms (daily practice)
-    - Machine Learning theory → applied projects
-    - Number Theory & Applied Mathematics (semester coursework)
+    - JavaScript (DOM, ES6+, async patterns) — via freeCodeCamp
+    - Machine learning pipelines, scikit-learn → deployment
   building:
-    - DataDNA AI — extending ownership verification with blockchain-backed proofs
-    - IPL Win Predictor — refining feature engineering & model accuracy
-  exploring:
-    - Semantic embeddings & similarity search (Sentence-Transformers)
-    - Async API design with FastAPI
+    - DataDNA AI — file ownership fingerprinting system
+    - A local MCP-based AI assistant ecosystem (private)
   practicing:
-    - LeetCode, daily problem solving
-    - ML/DL fundamentals from scratch
+    - Daily DSA in C++ on LeetCode
+  exploring:
+    - Cloud deployment (AWS)
   open_to:
+    - Software engineering / ML internships
     - Open-source collaboration
-    - Internship / SDE & AI-ML opportunities
 ```
 
 ---
 
-## `> cat ./contact.md`
+## 📬 Get In Touch
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Code99701)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-mahajan-61b7b2301/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toarnavmahajan@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ArnavMahaj44081)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-mahajan-61b7b2301/)
+[![Gmail](https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toarnavmahajan@gmail.com)
+[![X](https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ArnavMahaj44081)
 
 </div>
 
@@ -388,6 +376,6 @@ current_focus:
 
 *"Ship it, learn from it, repeat."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06b6d4,50:1e1b4b,100:030014&amp;height=90&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0a2a3a,100:1e1b4b&height=90&section=footer" width="100%"/>
 
 </div>
