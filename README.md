@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020d18,35:1e1b4b,70:0a2a3a,100:06b6d4&height=170&section=header&text=Arnav%20Mahajan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Math%20%26%20Computing%20%C2%B7%20Builder%20%C2%B7%20Problem%20Solver&descSize=16&descAlignY=63&descColor=94d8e8" width="100%"/>
+<img src="./assets/banner.svg" width="100%" alt="Arnav Mahajan Banner"/>
 
 </div>
 
