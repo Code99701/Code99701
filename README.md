@@ -45,7 +45,7 @@ class Arnav:
 
 Mathematics. Code. Curiosity.
 
-I'm a **Mathematics & Computing** undergraduate at **MITS Gwalior** focused on **Software Engineering, AI, and Machine Learning**. I enjoy turning ideas into products, solving challenging DSA problems, and continuously learning new technologies.
+I'm a **Mathematics & Computing** undergraduate at **MITS Gwalior** focused on **DSA, AI, and Machine Learning**. I enjoy turning ideas into products, solving challenging DSA problems, and continuously learning new technologies.
 
 Currently building projects, sharpening problem-solving skills, and working toward becoming an engineer who values simplicity, performance, and meaningful impact.
 
